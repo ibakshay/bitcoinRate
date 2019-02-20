@@ -1,2 +1,2 @@
 # bitcoinRate
-working with external APIs using Express JS
+working with external APIs with Express JS server
