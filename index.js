@@ -9,9 +9,13 @@ app.listen(3000, function(){
   console.log("server is up and running on port 3000");
 });
 
+//TODO #25 #24 Add Ui @ibakshay
+
 app.get("/", function(req,res){
   res.sendfile(__dirname + "/index.html");
 });
+
+//TODO #27 #26 test @ibakshay
 
 app.post("/bitcoin", function(req,res){
   //console.log(req.body);
