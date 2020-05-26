@@ -1,4 +1,4 @@
-## bitcoinRate
-working with external APIs with Express JS server.....
 
+## bitcoinRateAPI
+working with external APIs with Express JS server..  
 
